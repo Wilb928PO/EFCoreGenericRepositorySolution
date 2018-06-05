@@ -11,3 +11,17 @@ E:\Repos\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui
 E:\Repos\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.pdb
 E:\Repos\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\EfCoreGenericRepository.dll
 E:\Repos\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\EfCoreGenericRepository.pdb
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\Blog.Ui.deps.json
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\Blog.Ui.runtimeconfig.json
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\Blog.Ui.runtimeconfig.dev.json
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\Blog.Ui.dll
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\Blog.Ui.pdb
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\EfCoreGenericRepository.dll
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\bin\Debug\netcoreapp2.0\EfCoreGenericRepository.pdb
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.csprojResolveAssemblyReference.cache
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.csproj.CoreCompileInputs.cache
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.AssemblyInfoInputs.cache
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.AssemblyInfo.cs
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.csproj.CopyComplete
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.dll
+D:\Git\EFCoreGenericRepositorySolution\Blog.Ui\obj\Debug\netcoreapp2.0\Blog.Ui.pdb

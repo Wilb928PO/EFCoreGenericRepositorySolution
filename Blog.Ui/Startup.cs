@@ -20,8 +20,8 @@ namespace Blog.Ui
     public void ConfigureServices(IServiceCollection services)
     {
       services.AddMvc();
-      services.AddDbContext<DataContext>(options =>
-         options.UseInMemoryDatabase());
+      //services.AddDbContext<DataContext>(options => options.UseInMemoryDatabase());
+      services.AddDbContext<DataContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
       services.AddTransient<IBlogRepository, BlogRepository>();
     }
 

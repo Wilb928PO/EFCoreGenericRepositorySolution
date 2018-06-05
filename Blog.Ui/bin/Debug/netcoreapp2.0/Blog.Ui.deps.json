@@ -3798,6 +3798,7 @@
       "EfCoreGenericRepository/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "System.Security.Principal.Windows": "4.4.0"
         },
@@ -4212,7 +4213,7 @@
     "Microsoft.AspNetCore.Diagnostics/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-s6/LfGN/wvwGnMZkragaLuvLcMa2ni3EiG/mCVmAXNdCdDoPygzZP+orXG5TcZsNplWummy7pzAZ++Ql8YacWA==",
+      "sha512": "sha512-3+Iw82NqOIi5OXlNu9NHZEkQzOkqpCxCkgKogo5H2/5cU9GEE4cwM4BKfY9hq9jVJwWDPsRJOC+Ot0f9gEcQsg==",
       "path": "microsoft.aspnetcore.diagnostics/2.0.0",
       "hashPath": "microsoft.aspnetcore.diagnostics.2.0.0.nupkg.sha512"
     },
@@ -5521,7 +5522,7 @@
     "System.Interactive.Async/3.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lM40/q2LbzHQhCnAMDktT5mgOpVvU9S1K+k+FYei9e21ZQZFtm+qB0z6NDN/R85HX7PO8+quDlsFD0FVDMQR6A==",
+      "sha512": "sha512-hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
       "path": "system.interactive.async/3.1.1",
       "hashPath": "system.interactive.async.3.1.1.nupkg.sha512"
     },

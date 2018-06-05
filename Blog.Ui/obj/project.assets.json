@@ -4752,6 +4752,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.InMemory": "2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.0",
           "Microsoft.EntityFrameworkCore.Tools": "2.0.0",
           "System.Security.Principal.Windows": "4.4.0"
         },
@@ -5142,7 +5143,7 @@
       ]
     },
     "Microsoft.AspNetCore.Diagnostics/2.0.0": {
-      "sha512": "s6/LfGN/wvwGnMZkragaLuvLcMa2ni3EiG/mCVmAXNdCdDoPygzZP+orXG5TcZsNplWummy7pzAZ++Ql8YacWA==",
+      "sha512": "3+Iw82NqOIi5OXlNu9NHZEkQzOkqpCxCkgKogo5H2/5cU9GEE4cwM4BKfY9hq9jVJwWDPsRJOC+Ot0f9gEcQsg==",
       "type": "package",
       "path": "microsoft.aspnetcore.diagnostics/2.0.0",
       "files": [
@@ -9219,7 +9220,7 @@
       ]
     },
     "System.Interactive.Async/3.1.1": {
-      "sha512": "lM40/q2LbzHQhCnAMDktT5mgOpVvU9S1K+k+FYei9e21ZQZFtm+qB0z6NDN/R85HX7PO8+quDlsFD0FVDMQR6A==",
+      "sha512": "hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
       "type": "package",
       "path": "system.interactive.async/3.1.1",
       "files": [
@@ -12554,40 +12555,40 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\wilber.padilla\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\Repos\\EFCoreGenericRepositorySolution\\Blog.Ui\\Blog.Ui.csproj",
+      "projectUniqueName": "D:\\Git\\EFCoreGenericRepositorySolution\\Blog.Ui\\Blog.Ui.csproj",
       "projectName": "Blog.Ui",
-      "projectPath": "E:\\Repos\\EFCoreGenericRepositorySolution\\Blog.Ui\\Blog.Ui.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\EFCoreGenericRepositorySolution\\Blog.Ui\\obj\\",
+      "projectPath": "D:\\Git\\EFCoreGenericRepositorySolution\\Blog.Ui\\Blog.Ui.csproj",
+      "packagesPath": "C:\\Users\\wilber.padilla\\.nuget\\packages\\",
+      "outputPath": "D:\\Git\\EFCoreGenericRepositorySolution\\Blog.Ui\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\wilber.padilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "E:\\Repos\\Nugets": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\Repos\\EFCoreGenericRepositorySolution\\EfCoreGenericRepository\\EfCoreGenericRepository.csproj": {
-              "projectPath": "E:\\Repos\\EFCoreGenericRepositorySolution\\EfCoreGenericRepository\\EfCoreGenericRepository.csproj"
+            "D:\\Git\\EFCoreGenericRepositorySolution\\EfCoreGenericRepository\\EfCoreGenericRepository.csproj": {
+              "projectPath": "D:\\Git\\EFCoreGenericRepositorySolution\\EfCoreGenericRepository\\EfCoreGenericRepository.csproj"
             }
           }
         }
@@ -12601,14 +12602,14 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "2.0.0",
-            "autoReferenced": true
-          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [
